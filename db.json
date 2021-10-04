@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Jane",
+      "address": "Japan",
+      "email": "jane@gmail.com",
+      "contact": "8369578965",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "address": "Japan",
+      "email": "John@gmail.com",
+      "contact": "354353453453",
+      "id": 2
+    },
+    {
+      "name": "kumar Ramesh",
+      "email": "kumar@gmail.com",
+      "contact": "808089080345943",
+      "address": "bangalore",
+      "id": 4
+    }
+  ]
+}
